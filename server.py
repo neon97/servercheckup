@@ -45,7 +45,11 @@ def emp():
 
 @app.route('/emp')
 def home():
-    return "Helloworld"
+    return (
+        {
+            "sales":"true"
+        }
+    )
     # data = emp()
     # print(data)
     # return json.dumps(data)
@@ -55,4 +59,4 @@ def home():
     #return 'Hello Flask'
 
 #home()
-# app.run(debug=True)
+app.run(debug=True)
