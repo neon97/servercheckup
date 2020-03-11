@@ -48,7 +48,7 @@ def home():
     return (
         {
             "sales":"true",
-            "aiima":"false"
+            "aiima":"true"
         }
     )
     # data = emp()
