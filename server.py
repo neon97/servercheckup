@@ -47,7 +47,7 @@ def emp():
 def home():
     return (
         {
-            "sales":"true",
+            "sales":"false",
             "aiima":"false",
             "user":"eeTa3k89NbEQrreKnw4uJMU5pYiPD+wJC8eL6PbDEDVoxONAZghxhtmJcg1KbMH7",
             "pass":"xde5EIKpoh/cBOfrs02zbb4t6gPq/sgn7V+RIi8i6p0=",
