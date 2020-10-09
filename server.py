@@ -49,8 +49,8 @@ def home():
         {
             "sales":"true",
             "aiima":"false",
-            "user":"jUZclO/CbRKvDoj+nTCmorxZGfzcUp24ewWhJaR/Q5IKoiatGH53otKNzh5onfZc",
-            "pass":"x0dfxCp7psHjefqwJcXUTgvbBZp18oyrKoo87Th879k=",
+            "user":"oRUg+no2Ex5p76E+i+L4OXVyBsPGm5s5+GGwBriRj8d5uf1roM+BE2xBEiG6m6xf",
+            "pass":"2P165G8pvKCe31CjJC50S5WB593D8QHjcjRfiZLXuYw=",
         }
     )
     # data = emp()
