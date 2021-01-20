@@ -52,6 +52,7 @@ def home():
             "ihome":"true",
             "user":"oRUg+no2Ex5p76E+i+L4OXVyBsPGm5s5+GGwBriRj8d5uf1roM+BE2xBEiG6m6xf",
             "pass":"2P165G8pvKCe31CjJC50S5WB593D8QHjcjRfiZLXuYw=",
+            "voice":"true"
         }
     )
     # data = emp()
